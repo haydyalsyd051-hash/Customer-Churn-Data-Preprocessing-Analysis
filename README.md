@@ -1,2 +1,24 @@
-# Customer-Churn-Data-Preprocessing-Analysis
-This project focuses on preprocessing customer churn data using Python. It includes data cleaning, handling missing values, encoding categorical features, and preparing the dataset for machine learning models.
+# Customer Churn Data Preprocessing
+
+##  Project Overview
+This project focuses on preparing customer data for churn prediction using data preprocessing techniques.
+
+##  What I Did
+- Data Cleaning (handled missing values)
+- Encoding categorical variables
+- Feature Scaling
+- Basic Exploratory Data Analysis (EDA)
+- Prepared dataset for Machine Learning models
+
+##  Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+
+##  Output
+Clean and ready-to-use dataset for churn prediction models.
+
+##  Next Step
+Building Machine Learning models to predict customer churn.
